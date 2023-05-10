@@ -1,0 +1,71 @@
+#+title: Matematik og balloner
+#+subtitle: SO - Ballonprojekt
+#+author: Vibenshus Gymnasium
+#+date: 
+# Themes: beige|black|blood|league|moon|night|serif|simple|sky|solarized|white
+#+reveal_theme: night
+#+reveal_title_slide: <h2>%t</h2><h3>%s</h3><h4>%a</h4><h4>%d</h4>
+#+reveal_title_slide_background: ./img/forside.jpg
+#+reveal_title_slide_background_size: 80% 
+#+reveal_default_slide_background:
+#+reveal_extra_options: slideNumber:"c/t",progress:true,transition:"slide",navigationMode:"default",history:false,hash:true
+# #+reveal_extra_attr: style="color:red"
+#+options: toc:nil num:nil tags:nil timestamp:nil ^:{}
+
+* Byg jeres egen ballon
+#+attr_html: :width 50%
+[[./img/tissue_paper.jpg]]
+
+Ballonen må maksimalt have et rumfang på 1 m^{3}.
+
+* Den optimale form?
+#+attr_html: :width 50%
+[[./img/shaped_balloons.jpg]]
+
+
+** Kompendium
+#+reveal_html: <div style="font-size: 60%;">
+#+reveal_html: <div class="column" style="float:left; width: 50%">
+#+attr_html: :width 80%
+[[./img/kompendium_forsige.png]]
+#+reveal_html: </div>
+
+#+reveal_html: <div class="column" style="float:right; width: 50%">
+- Find Opgaver fra "Den store gamle opgavebog" på side 3 og 4.
+- Find formelsamling på side 5 til 7.
+#+reveal_html: </div>
+
+** Den optimale form
+En kugle!
+#+attr_html: :width 50%
+[[./img/orange_1.jpg]]
+
+** Men den er bøvlet!
+#+reveal_html: <div style="font-size: 60%;">
+Den kan ikke formes at fladt papir.
+#+attr_html: :width 50%
+[[./img/orange_2.jpg]]
+
+* Tilbage til tegnebrættet!
+#+attr_html: :width 60%
+[[./img/tegnebraet.jpg]]
+
+** Matematisk modellering
+#+reveal_html: <div style="font-size: 60%;">
+#+reveal_html: <div class="column" style="float:left; width: 50%">
+#+attr_html: :width 80%
+[[./img/ballonforslag.png]]
+#+reveal_html: </div>
+
+#+reveal_html: <div class="column" style="float:right; width: 50%">
+- Hvis vi ikke (nemt) kan skabe en kugle, så må vi prøve med noget andet.
+- Men hvad skal man vælge?
+- I skal selv designe/udvikle/udføre beregninger for jeres ballon.
+- I skal have skabeloner/tegninger af udfoldninger klar til pretotyping i teknologi (mock-ups i mindre størrelsesforhold).
+- Regler:
+  - Maks rumfang på 1 m^{3}.
+  - Bestå af flere dele, som skal sættes sammen.
+#+reveal_html: </div>
+
+** Sæt igang!
+ Formler og skitser af figurer finder I som før i kompendiet på side 5 til 7.
